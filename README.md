@@ -23,3 +23,5 @@ pip install reportlab
 
 git clone https://github.com/panagiotismayro/habit-tracker.git
 cd habit-tracker
+
+python habit_tracker.py
