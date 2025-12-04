@@ -25,3 +25,20 @@ git clone https://github.com/panagiotismayro/habit-tracker.git
 cd habit-tracker
 
 python3 habit_tracker.py
+```
+
+# Example
+After running the script, you'll be able to choose from the following options:
+```bash
+1️⃣ Add Habit
+2️⃣ Mark as Done
+3️⃣ View Progress
+4️⃣ Export to PDF
+5️⃣ Exit
+
+```
+
+
+
+
+
