@@ -20,3 +20,6 @@ You can install the `reportlab` library using pip:
 
 ```bash
 pip install reportlab
+
+git clone https://github.com/panagiotismayro/habit-tracker.git
+cd habit-tracker
