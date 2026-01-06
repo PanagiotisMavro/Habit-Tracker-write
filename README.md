@@ -19,7 +19,7 @@ To run this script, you need the following:
 You can install the `reportlab` library using pip:
 
 ```bash
-pip install reportlab or pip3 install -r requirements.txt
+pip3 install reportlab or pip3 install -r requirements.txt
 
 git clone https://github.com/panagiotismayro/habit-tracker.git
 cd habit-tracker
